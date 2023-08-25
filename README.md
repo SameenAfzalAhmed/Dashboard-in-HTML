@@ -26,7 +26,7 @@ Clone this repository to your local machine using the following command:
 
 bash
 Copy code
-
+https://github.com/SameenAfzalAhmed/Dashboard-in-HTML.git
 HTML Basics
 HTML (Hypertext Markup Language) is the foundation of any web page. Learn how to structure content, create headings, paragraphs, lists, links, and more.
 
